@@ -1,37 +1,45 @@
-FindDevs
+# **FindDevs**
+
 Projeto realizado durante a Semana OmniStack 10
 
-Back-end
+---
+
+## **Back-end**
+
 Desenvolvido utilizado node.js para criar uma API REST
 
-End Points
-Cadastrar usuário
+### **End Points**
 
-URL: /devs
+- **Cadastrar usuário**
 
-Method: POST
+  **URL:** `/devs`
 
-Listar todos os usuários
+  **Method:** `POST`
 
-URL: /devs
+- **Listar todos os usuários**
 
-Method: GET
+  **URL:** `/devs`
 
-Atualizar usuário pelo ID
+  **Method:** `GET`
 
-URL: /devs/:id
+- **Atualizar usuário pelo ID**
 
-Method: PUT
+  **URL:** `/devs/:id`
 
-Required: id=[integer]
+  **Method:** `PUT`
 
-Apagar usuário pelo ID
+  **Required:** `id=[integer]`
 
-URL: /devs/:id
+- **Apagar usuário pelo ID**
 
-Method: DELETE
+  **URL:** `/devs/:id`
 
-Required: id=[integer]
+  **Method:** `DELETE`
 
-Front-end
+  **Required:** `id=[integer]`
+
+---
+
+## Front-end
+
 Desenvolido utilizando ReactJS paara consumir API REST
