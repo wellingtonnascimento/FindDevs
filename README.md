@@ -43,3 +43,9 @@ Desenvolvido utilizado node.js para criar uma API REST
 ## Front-end
 
 Desenvolido utilizando ReactJS paara consumir API REST
+
+---
+
+## Mobile
+
+Desenvolvido utilizando React Native Junto com o Expo-Cli
